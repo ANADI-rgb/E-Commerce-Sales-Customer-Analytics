@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,cost_price,selling_price
+P0001,Cookware Set 1,Home & Kitchen,Kitchen & Home,5929.42,7612.3
+P0002,Kurta 2,Fashion,Clothing,3999.2,5371.84
+P0003,Jeans 3,Fashion,Clothing,8914.57,10585.98
+P0004,Smart Watch 4,Electronics,Gadgets,10825.28,15784.44
+P0005,Kitchen Scale 5,Home & Kitchen,Kitchen & Home,10289.62,13624.55
+P0006,Backpack 6,Fashion,Clothing,691.22,970.51
+P0007,Finance Basics 7,Books,Books,9748.56,12217.49
+P0008,Coffee Maker 8,Home & Kitchen,Kitchen & Home,12252.39,19593.07
+P0009,Fiction Novel 9,Books,Books,6869.3,8063.78
+P0010,Football 10,Sports,Fitness,11113.42,14649.64
+P0011,Football 11,Sports,Fitness,2979.86,4759.02
+P0012,Kitchen Scale 12,Home & Kitchen,Kitchen & Home,5990.65,9462.34
+P0013,Face Serum 13,Beauty,Personal Care,2792.24,4418.24
+P0014,Electric Kettle 14,Home & Kitchen,Kitchen & Home,9055.74,13012.44
+P0015,Shampoo 15,Beauty,Personal Care,11758.19,15325.83
+P0016,Dinner Set 16,Home & Kitchen,Kitchen & Home,11979.18,14533.96
+P0017,USB Cable 17,Electronics,Gadgets,8656.52,13574.72
+P0018,Monitor 18,Electronics,Gadgets,10676.02,14465.72
+P0019,Coffee Table 19,Furniture,Home Furniture,7813.11,9482.8
+P0020,TV Unit 20,Furniture,Home Furniture,3632.19,5439.99
+P0021,Track Pants 21,Fashion,Clothing,3615.7,4977.26
+P0022,Sneakers 22,Fashion,Clothing,10300.16,14726.15
+P0023,Wireless Mouse 23,Electronics,Gadgets,6242.15,8438.67
+P0024,Bedside Table 24,Furniture,Home Furniture,12798.99,17483.52
+P0025,Formal Shirt 25,Fashion,Clothing,5785.25,7219.72
+P0026,Digital Marketing 26,Books,Books,2007.34,3099.81
+P0027,Data Science Handbook 27,Books,Books,4703.02,7328.74
+P0028,Study Table 28,Furniture,Home Furniture,2428.02,3385.6
+P0029,Electric Kettle 29,Home & Kitchen,Kitchen & Home,8656.08,11386.55
+P0030,Fiction Novel 30,Books,Books,10656.7,14970.72
+P0031,Bluetooth Speaker 31,Electronics,Gadgets,5215.35,7777.47
+P0032,Sports Shoes 32,Sports,Fitness,1679.5,2633.5
+P0033,Webcam 33,Electronics,Gadgets,10549.03,13043.99
+P0034,Kurta 34,Fashion,Clothing,7604.69,11851.15
+P0035,Skipping Rope 35,Sports,Fitness,1290.97,1631.97
+P0036,Web Development 36,Books,Books,271.23,323.29
+P0037,Face Serum 37,Beauty,Personal Care,8204.89,10291.69
+P0038,Leadership Skills 38,Books,Books,8940.83,11122.17
+P0039,Lip Balm 39,Beauty,Personal Care,8467.51,10176.99
+P0040,Sports Shoes 40,Sports,Fitness,11506.67,15323.09
+P0041,Lip Balm 41,Beauty,Personal Care,12894.09,14882.69
+P0042,Sneakers 42,Fashion,Clothing,4790.43,7539.1
+P0043,Fiction Novel 43,Books,Books,12025.76,16292.15
+P0044,SQL Complete Guide 44,Books,Books,12672.83,18218.13
+P0045,Perfume 45,Beauty,Personal Care,860.19,1076.62
+P0046,Backpack 46,Fashion,Clothing,11910.43,17708.28
+P0047,Finance Basics 47,Books,Books,5133.3,7647.17
+P0048,Face Serum 48,Beauty,Personal Care,14919.26,19441.71
+P0049,Office Chair 49,Furniture,Home Furniture,4672.48,5963.99
+P0050,Cricket Bat 50,Sports,Fitness,8882.4,13016.35
+P0051,Perfume 51,Beauty,Personal Care,12686.72,17680.6
+P0052,Kurta 52,Fashion,Clothing,489.1,637.5
+P0053,Hoodie 53,Fashion,Clothing,7358.0,9968.3
+P0054,TV Unit 54,Furniture,Home Furniture,13386.81,17562.76
+P0055,Skipping Rope 55,Sports,Fitness,12080.64,16140.95
+P0056,Keyboard 56,Electronics,Gadgets,1791.04,2449.88
+P0057,Sports Shoes 57,Sports,Fitness,6004.63,9286.16
+P0058,Formal Shirt 58,Fashion,Clothing,10169.44,13301.55
+P0059,Dress 59,Fashion,Clothing,2417.9,3395.63
+P0060,Shampoo 60,Beauty,Personal Care,2663.01,3881.09
+P0061,Water Bottle 61,Home & Kitchen,Kitchen & Home,7702.27,9787.76
+P0062,Python Programming 62,Books,Books,11421.53,16115.62
+P0063,Dumbbells 63,Sports,Fitness,4015.75,5856.48
+P0064,Gym Gloves 64,Sports,Fitness,11176.32,12910.14
+P0065,Lip Balm 65,Beauty,Personal Care,10908.76,16123.27
+P0066,Dinner Set 66,Home & Kitchen,Kitchen & Home,1201.65,1662.76
+P0067,Body Lotion 67,Beauty,Personal Care,7250.1,10376.04
+P0068,Computer Desk 68,Furniture,Home Furniture,13270.65,20578.36
+P0069,Makeup Kit 69,Beauty,Personal Care,5743.86,6711.1
+P0070,SQL Complete Guide 70,Books,Books,8628.65,13390.68
+P0071,Shampoo 71,Beauty,Personal Care,5768.48,7923.88
+P0072,Badminton Racket 72,Sports,Fitness,13214.26,20000.49
+P0073,Moisturizer 73,Beauty,Personal Care,10117.18,12023.56
+P0074,Perfume 74,Beauty,Personal Care,14827.67,17873.88
+P0075,Resistance Band 75,Sports,Fitness,6407.76,7909.38
+P0076,Office Chair 76,Furniture,Home Furniture,6221.63,9861.76
+P0077,Machine Learning Guide 77,Books,Books,4453.81,5450.5
+P0078,Air Fryer 78,Home & Kitchen,Kitchen & Home,967.91,1175.42
+P0079,Resistance Band 79,Sports,Fitness,13950.29,17626.25
+P0080,Face Wash 80,Beauty,Personal Care,11854.97,17977.8
+P0081,USB Cable 81,Electronics,Gadgets,8576.78,13623.7
+P0082,SQL Complete Guide 82,Books,Books,10264.75,11815.11
+P0083,Gym Gloves 83,Sports,Fitness,9884.61,12215.68
+P0084,Body Lotion 84,Beauty,Personal Care,13223.33,17129.55
+P0085,Kitchen Scale 85,Home & Kitchen,Kitchen & Home,4721.7,5720.07
+P0086,Sneakers 86,Fashion,Clothing,7339.43,11196.96
+P0087,USB Cable 87,Electronics,Gadgets,12949.99,16436.2
+P0088,Dumbbells 88,Sports,Fitness,5177.71,7193.23
+P0089,Bedside Table 89,Furniture,Home Furniture,3832.05,4607.66
+P0090,Dumbbells 90,Sports,Fitness,11792.88,14919.95
+P0091,Jacket 91,Fashion,Clothing,14453.67,22504.82
+P0092,Cricket Bat 92,Sports,Fitness,4994.96,7934.45
+P0093,Face Serum 93,Beauty,Personal Care,14565.22,19143.41
+P0094,Office Chair 94,Furniture,Home Furniture,7299.13,11217.58
+P0095,Body Lotion 95,Beauty,Personal Care,8044.5,12728.52
+P0096,Tennis Ball 96,Sports,Fitness,605.71,745.75
+P0097,Kitchen Scale 97,Home & Kitchen,Kitchen & Home,14274.14,17499.42
+P0098,Electric Kettle 98,Home & Kitchen,Kitchen & Home,13772.39,16050.1
+P0099,Laptop Stand 99,Electronics,Gadgets,14538.81,22631.19
+P0100,Tennis Ball 100,Sports,Fitness,14473.98,22653.61
+P0101,Resistance Band 101,Sports,Fitness,9995.13,13922.97
+P0102,Makeup Kit 102,Beauty,Personal Care,7962.36,10891.05
+P0103,Sports Shoes 103,Sports,Fitness,3204.14,4834.76
+P0104,Power Bank 104,Electronics,Gadgets,12061.29,18242.76
+P0105,Gym Gloves 105,Sports,Fitness,11998.61,14736.17
+P0106,Study Table 106,Furniture,Home Furniture,7213.56,10459.23
+P0107,Face Serum 107,Beauty,Personal Care,4646.17,6236.09
+P0108,Air Fryer 108,Home & Kitchen,Kitchen & Home,11451.58,15961.85
+P0109,Cricket Bat 109,Sports,Fitness,7170.91,8309.1
+P0110,Wireless Mouse 110,Electronics,Gadgets,2846.2,3897.73
+P0111,Jeans 111,Fashion,Clothing,2420.93,2807.17
+P0112,Machine Learning Guide 112,Books,Books,11013.21,15916.71
+P0113,Keyboard 113,Electronics,Gadgets,10902.75,14937.8
+P0114,Jacket 114,Fashion,Clothing,14217.31,16777.43
+P0115,Track Pants 115,Fashion,Clothing,7574.68,9179.53
+P0116,Study Table 116,Furniture,Home Furniture,1022.19,1584.01
+P0117,Lip Balm 117,Beauty,Personal Care,2147.8,2920.82
+P0118,Python Programming 118,Books,Books,11742.8,15382.84
+P0119,Makeup Kit 119,Beauty,Personal Care,6820.28,8689.71
+P0120,Office Chair 120,Furniture,Home Furniture,3601.21,5310.31
+P0121,Webcam 121,Electronics,Gadgets,8111.4,12127.77
+P0122,Track Pants 122,Fashion,Clothing,13993.67,21161.99
+P0123,Mixer Grinder 123,Home & Kitchen,Kitchen & Home,8678.4,11434.73
+P0124,Shampoo 124,Beauty,Personal Care,13550.89,19783.72
+P0125,Dinner Set 125,Home & Kitchen,Kitchen & Home,8116.65,11687.32
+P0126,Face Wash 126,Beauty,Personal Care,11975.19,18429.73
+P0127,Dress 127,Fashion,Clothing,14671.78,17886.19
+P0128,Dinner Set 128,Home & Kitchen,Kitchen & Home,7384.31,9382.14
+P0129,Leadership Skills 129,Books,Books,5265.16,7722.21
+P0130,Sports Shoes 130,Sports,Fitness,303.12,398.37
+P0131,Data Science Handbook 131,Books,Books,8569.34,11768.77
+P0132,Computer Desk 132,Furniture,Home Furniture,10105.78,11747.66
+P0133,Coffee Maker 133,Home & Kitchen,Kitchen & Home,1289.49,1558.75
+P0134,Monitor 134,Electronics,Gadgets,2490.11,3674.71
+P0135,Hoodie 135,Fashion,Clothing,3726.47,5467.72
+P0136,Sports Shoes 136,Sports,Fitness,12658.3,19292.56
+P0137,Yoga Mat 137,Sports,Fitness,11358.47,16054.87
+P0138,Badminton Racket 138,Sports,Fitness,8982.17,10746.39
+P0139,Gym Gloves 139,Sports,Fitness,13734.39,20804.16
+P0140,USB Cable 140,Electronics,Gadgets,12666.3,19137.92
+P0141,Finance Basics 141,Books,Books,1432.57,2035.24
+P0142,Webcam 142,Electronics,Gadgets,5146.85,8087.47
+P0143,Jeans 143,Fashion,Clothing,14924.8,23632.34
+P0144,Water Bottle 144,Home & Kitchen,Kitchen & Home,8507.07,11573.74
+P0145,Kitchen Scale 145,Home & Kitchen,Kitchen & Home,6298.27,8335.54
+P0146,Backpack 146,Fashion,Clothing,1379.98,2161.81
+P0147,Electric Kettle 147,Home & Kitchen,Kitchen & Home,2831.7,4088.72
+P0148,Computer Desk 148,Furniture,Home Furniture,10968.74,13777.13
+P0149,Web Development 149,Books,Books,10682.54,14501.44
+P0150,Water Bottle 150,Home & Kitchen,Kitchen & Home,4596.59,6600.29
+P0151,Coffee Maker 151,Home & Kitchen,Kitchen & Home,12926.93,18487.92
+P0152,Body Lotion 152,Beauty,Personal Care,7532.03,10707.69
+P0153,Dining Chair 153,Furniture,Home Furniture,5556.17,6665.42
+P0154,Face Serum 154,Beauty,Personal Care,3497.45,4838.15
+P0155,Python Programming 155,Books,Books,12556.78,17906.25
+P0156,Cricket Bat 156,Sports,Fitness,11490.91,14385.21
+P0157,Cricket Bat 157,Sports,Fitness,9682.47,11681.05
+P0158,Makeup Kit 158,Beauty,Personal Care,12989.33,20555.02
+P0159,Python Programming 159,Books,Books,10870.73,15278.06
+P0160,Laptop Stand 160,Electronics,Gadgets,1174.07,1719.49
+P0161,Perfume 161,Beauty,Personal Care,7272.66,8780.65
+P0162,Dinner Set 162,Home & Kitchen,Kitchen & Home,5852.76,8782.9
+P0163,Machine Learning Guide 163,Books,Books,2063.18,2615.63
+P0164,Mixer Grinder 164,Home & Kitchen,Kitchen & Home,3468.19,5208.7
+P0165,Mixer Grinder 165,Home & Kitchen,Kitchen & Home,9012.41,10707.08
+P0166,T-Shirt 166,Fashion,Clothing,13703.09,19944.11
+P0167,Storage Box 167,Home & Kitchen,Kitchen & Home,3777.56,5949.28
+P0168,Webcam 168,Electronics,Gadgets,2928.33,3607.78
+P0169,Jeans 169,Fashion,Clothing,4027.64,6371.73
+P0170,Kurta 170,Fashion,Clothing,8659.35,13028.7
+P0171,Keyboard 171,Electronics,Gadgets,7921.21,9558.07
+P0172,Yoga Mat 172,Sports,Fitness,3417.93,4438.12
+P0173,Skipping Rope 173,Sports,Fitness,6835.95,8803.19
+P0174,Kitchen Scale 174,Home & Kitchen,Kitchen & Home,8172.82,10290.08
+P0175,Bedside Table 175,Furniture,Home Furniture,9323.56,13593.53
+P0176,Finance Basics 176,Books,Books,11855.25,17886.76
+P0177,Smart Watch 177,Electronics,Gadgets,3888.11,5512.59
+P0178,Bookshelf 178,Furniture,Home Furniture,2659.23,3978.52
+P0179,Water Bottle 179,Home & Kitchen,Kitchen & Home,7081.6,10627.48
+P0180,Sunscreen 180,Beauty,Personal Care,356.85,525.95
+P0181,Kitchen Scale 181,Home & Kitchen,Kitchen & Home,8528.96,12013.83
+P0182,Python Programming 182,Books,Books,6598.39,10089.55
+P0183,Moisturizer 183,Beauty,Personal Care,12997.05,18718.54
+P0184,Hoodie 184,Fashion,Clothing,6883.83,9430.85
+P0185,Bedside Table 185,Furniture,Home Furniture,4907.86,7098.71
+P0186,Power Bank 186,Electronics,Gadgets,2805.33,3539.94
+P0187,Makeup Kit 187,Beauty,Personal Care,7492.1,9100.08
+P0188,Python Programming 188,Books,Books,11073.67,14941.63
+P0189,Formal Shirt 189,Fashion,Clothing,14202.12,17768.06
+P0190,Water Bottle 190,Home & Kitchen,Kitchen & Home,14348.18,20916.2
+P0191,Makeup Kit 191,Beauty,Personal Care,484.53,626.87
+P0192,Kitchen Scale 192,Home & Kitchen,Kitchen & Home,13003.87,19584.26
+P0193,Digital Marketing 193,Books,Books,2782.86,3787.37
+P0194,SQL Complete Guide 194,Books,Books,5148.73,6380.09
+P0195,Wardrobe 195,Furniture,Home Furniture,1659.4,2073.57
+P0196,Webcam 196,Electronics,Gadgets,3640.16,4743.76
+P0197,SQL Complete Guide 197,Books,Books,947.01,1509.15
+P0198,Face Serum 198,Beauty,Personal Care,1701.77,2093.89
+P0199,Dress 199,Fashion,Clothing,14014.39,16253.01
+P0200,Dumbbells 200,Sports,Fitness,5739.76,8446.41
+P0201,Shampoo 201,Beauty,Personal Care,1013.48,1270.47
+P0202,Smart Watch 202,Electronics,Gadgets,13754.65,18292.21
+P0203,Air Fryer 203,Home & Kitchen,Kitchen & Home,12358.19,16028.5
+P0204,Office Chair 204,Furniture,Home Furniture,7414.61,8826.34
+P0205,Jacket 205,Fashion,Clothing,8107.96,11143.54
+P0206,TV Unit 206,Furniture,Home Furniture,14349.13,18224.08
+P0207,Python Programming 207,Books,Books,4246.07,5174.01
+P0208,Business Analytics 208,Books,Books,14205.29,18850.02
+P0209,Keyboard 209,Electronics,Gadgets,8987.22,10967.3
+P0210,Bedside Table 210,Furniture,Home Furniture,12866.59,15558.51
+P0211,Vacuum Cleaner 211,Home & Kitchen,Kitchen & Home,12051.61,14052.38
+P0212,Body Lotion 212,Beauty,Personal Care,1315.44,1566.7
+P0213,Coffee Maker 213,Home & Kitchen,Kitchen & Home,13570.6,17739.26
+P0214,SQL Complete Guide 214,Books,Books,10992.54,14175.18
+P0215,Jeans 215,Fashion,Clothing,9323.76,14391.4
+P0216,Smart Watch 216,Electronics,Gadgets,10441.7,16041.01
+P0217,Jacket 217,Fashion,Clothing,7543.43,9086.62
+P0218,Lip Balm 218,Beauty,Personal Care,12003.62,14742.31
+P0219,Badminton Racket 219,Sports,Fitness,14713.79,19632.77
+P0220,USB Cable 220,Electronics,Gadgets,1980.8,2643.84
+P0221,Study Table 221,Furniture,Home Furniture,10135.99,15636.53
+P0222,Digital Marketing 222,Books,Books,13398.3,19725.69
+P0223,Coffee Maker 223,Home & Kitchen,Kitchen & Home,2145.06,3310.47
+P0224,Webcam 224,Electronics,Gadgets,6650.11,7866.55
+P0225,Power Bank 225,Electronics,Gadgets,2476.87,3198.82
+P0226,Tennis Ball 226,Sports,Fitness,7614.43,9984.99
+P0227,Web Development 227,Books,Books,9015.57,12236.48
+P0228,Power Bank 228,Electronics,Gadgets,3009.74,3753.44
+P0229,Face Wash 229,Beauty,Personal Care,13710.98,18884.6
+P0230,Fiction Novel 230,Books,Books,761.54,890.89
+P0231,Kurta 231,Fashion,Clothing,11044.47,16923.56
+P0232,SQL Complete Guide 232,Books,Books,9078.46,12424.02
+P0233,Dumbbells 233,Sports,Fitness,7612.38,9090.5
+P0234,Yoga Mat 234,Sports,Fitness,766.32,1156.88
+P0235,Moisturizer 235,Beauty,Personal Care,5910.93,7444.12
+P0236,Football 236,Sports,Fitness,6232.95,8593.46
+P0237,Leadership Skills 237,Books,Books,11061.11,13161.26
+P0238,Bedside Table 238,Furniture,Home Furniture,14002.43,21968.88
+P0239,Smart Watch 239,Electronics,Gadgets,9490.12,13735.78
+P0240,Sunscreen 240,Beauty,Personal Care,14900.26,22222.78
+P0241,Badminton Racket 241,Sports,Fitness,5826.86,7162.63
+P0242,Wireless Mouse 242,Electronics,Gadgets,7291.68,8897.58
+P0243,Shampoo 243,Beauty,Personal Care,12397.01,18295.52
+P0244,Football 244,Sports,Fitness,10163.8,16004.3
+P0245,Dress 245,Fashion,Clothing,2484.2,3072.76
+P0246,Coffee Maker 246,Home & Kitchen,Kitchen & Home,6415.63,7429.2
+P0247,Yoga Mat 247,Sports,Fitness,10961.85,16117.91
+P0248,Monitor 248,Electronics,Gadgets,3484.79,5212.87
+P0249,Sports Shoes 249,Sports,Fitness,14294.04,19785.71
+P0250,Resistance Band 250,Sports,Fitness,9506.4,13369.44
+P0251,Power Bank 251,Electronics,Gadgets,5330.86,6811.91
+P0252,Yoga Mat 252,Sports,Fitness,6292.51,9761.35
+P0253,Kurta 253,Fashion,Clothing,7315.93,10271.09
+P0254,Lip Balm 254,Beauty,Personal Care,7997.46,11799.84
+P0255,Sunscreen 255,Beauty,Personal Care,1212.0,1699.87
+P0256,Computer Desk 256,Furniture,Home Furniture,13419.59,15939.8
+P0257,Jacket 257,Fashion,Clothing,6580.39,8607.1
+P0258,Gym Gloves 258,Sports,Fitness,12351.2,15355.66
+P0259,Sneakers 259,Fashion,Clothing,13906.7,16552.2
+P0260,Webcam 260,Electronics,Gadgets,3300.73,5180.16
+P0261,Wireless Mouse 261,Electronics,Gadgets,2193.6,3045.08
+P0262,Kurta 262,Fashion,Clothing,5102.89,7684.71
+P0263,Storage Box 263,Home & Kitchen,Kitchen & Home,10611.89,14505.92
+P0264,Mixer Grinder 264,Home & Kitchen,Kitchen & Home,10219.7,12209.88
+P0265,Body Lotion 265,Beauty,Personal Care,7319.26,10366.68
+P0266,Dinner Set 266,Home & Kitchen,Kitchen & Home,1794.42,2292.24
+P0267,Shampoo 267,Beauty,Personal Care,386.71,462.73
+P0268,T-Shirt 268,Fashion,Clothing,2249.74,2966.79
+P0269,Coffee Table 269,Furniture,Home Furniture,5187.83,6021.51
+P0270,Smart Watch 270,Electronics,Gadgets,4577.65,7308.9
+P0271,Cricket Bat 271,Sports,Fitness,10053.96,14213.96
+P0272,Yoga Mat 272,Sports,Fitness,8606.82,11818.79
+P0273,Finance Basics 273,Books,Books,3706.14,5112.62
+P0274,Water Bottle 274,Home & Kitchen,Kitchen & Home,5787.1,7675.3
+P0275,Bluetooth Speaker 275,Electronics,Gadgets,12015.34,17991.44
+P0276,Vacuum Cleaner 276,Home & Kitchen,Kitchen & Home,3452.43,5013.14
+P0277,Wireless Mouse 277,Electronics,Gadgets,8787.89,11257.04
+P0278,Hoodie 278,Fashion,Clothing,9303.3,13287.97
+P0279,Mixer Grinder 279,Home & Kitchen,Kitchen & Home,7477.44,11875.27
+P0280,Jeans 280,Fashion,Clothing,6677.71,9386.61
+P0281,Web Development 281,Books,Books,4848.56,6168.15
+P0282,Dining Chair 282,Furniture,Home Furniture,2458.54,3512.37
+P0283,SQL Complete Guide 283,Books,Books,5516.55,7639.54
+P0284,Dining Chair 284,Furniture,Home Furniture,2520.08,3280.06
+P0285,Sunscreen 285,Beauty,Personal Care,9551.18,11223.2
+P0286,Cookware Set 286,Home & Kitchen,Kitchen & Home,3897.21,4709.15
+P0287,T-Shirt 287,Fashion,Clothing,5709.75,8476.7
+P0288,Moisturizer 288,Beauty,Personal Care,2929.89,3473.28
+P0289,Track Pants 289,Fashion,Clothing,8545.16,9994.13
+P0290,Jeans 290,Fashion,Clothing,13860.81,21246.93
+P0291,Vacuum Cleaner 291,Home & Kitchen,Kitchen & Home,13261.91,15322.65
+P0292,USB Cable 292,Electronics,Gadgets,6157.69,7201.73
+P0293,Football 293,Sports,Fitness,12777.05,15944.22
+P0294,Storage Box 294,Home & Kitchen,Kitchen & Home,8002.63,10261.46
+P0295,Dress 295,Fashion,Clothing,9596.31,11181.05
+P0296,Tennis Ball 296,Sports,Fitness,12034.93,16094.65
+P0297,Hoodie 297,Fashion,Clothing,7209.8,10275.22
+P0298,Wardrobe 298,Furniture,Home Furniture,12192.64,18715.45
+P0299,Formal Shirt 299,Fashion,Clothing,4683.38,5417.11
+P0300,Water Bottle 300,Home & Kitchen,Kitchen & Home,10472.38,12746.24
+P0301,Dumbbells 301,Sports,Fitness,12578.6,15548.74
+P0302,Bluetooth Speaker 302,Electronics,Gadgets,13050.93,16386.98
+P0303,Power Bank 303,Electronics,Gadgets,5631.47,7049.83
+P0304,Keyboard 304,Electronics,Gadgets,13718.32,15970.93
+P0305,Dinner Set 305,Home & Kitchen,Kitchen & Home,10249.79,14699.06
+P0306,Study Table 306,Furniture,Home Furniture,13817.28,20789.39
+P0307,Yoga Mat 307,Sports,Fitness,10109.14,13485.03
+P0308,Moisturizer 308,Beauty,Personal Care,562.71,762.13
+P0309,Study Table 309,Furniture,Home Furniture,13125.69,18448.65
+P0310,Data Science Handbook 310,Books,Books,12496.13,18951.16
+P0311,TV Unit 311,Furniture,Home Furniture,2052.88,2652.11
+P0312,Makeup Kit 312,Beauty,Personal Care,2316.62,2980.79
+P0313,Lip Balm 313,Beauty,Personal Care,8490.94,12321.09
+P0314,Water Bottle 314,Home & Kitchen,Kitchen & Home,1138.18,1332.09
+P0315,Jeans 315,Fashion,Clothing,4357.37,5399.23
+P0316,Monitor 316,Electronics,Gadgets,1733.94,2730.51
+P0317,Wardrobe 317,Furniture,Home Furniture,9575.62,12356.6
+P0318,Jeans 318,Fashion,Clothing,10521.63,13195.76
+P0319,Jeans 319,Fashion,Clothing,6785.03,9595.8
+P0320,Power Bank 320,Electronics,Gadgets,4814.92,5620.69
+P0321,Kurta 321,Fashion,Clothing,220.18,327.01
+P0322,Office Chair 322,Furniture,Home Furniture,12138.75,18890.7
+P0323,Moisturizer 323,Beauty,Personal Care,4579.5,6951.17
+P0324,Body Lotion 324,Beauty,Personal Care,3347.67,3882.63
+P0325,Power Bank 325,Electronics,Gadgets,12178.0,15942.94
+P0326,Face Serum 326,Beauty,Personal Care,4857.6,5859.79
+P0327,Bookshelf 327,Furniture,Home Furniture,6974.32,10096.21
+P0328,Makeup Kit 328,Beauty,Personal Care,4178.14,4907.62
+P0329,Business Analytics 329,Books,Books,604.36,753.43
+P0330,Face Serum 330,Beauty,Personal Care,4022.41,5761.4
+P0331,Dumbbells 331,Sports,Fitness,6856.71,9749.7
+P0332,Air Fryer 332,Home & Kitchen,Kitchen & Home,9205.19,13518.82
+P0333,Makeup Kit 333,Beauty,Personal Care,4476.17,5521.89
+P0334,Web Development 334,Books,Books,14459.38,17089.02
+P0335,Dining Chair 335,Furniture,Home Furniture,450.44,552.02
+P0336,Computer Desk 336,Furniture,Home Furniture,5388.77,8477.27
+P0337,Leadership Skills 337,Books,Books,873.0,1196.02
+P0338,Perfume 338,Beauty,Personal Care,1496.32,2284.03
+P0339,Wireless Mouse 339,Electronics,Gadgets,14947.47,21242.63
+P0340,Digital Marketing 340,Books,Books,4570.78,6874.74
+P0341,Coffee Maker 341,Home & Kitchen,Kitchen & Home,3542.72,4133.83
+P0342,T-Shirt 342,Fashion,Clothing,1109.21,1495.62
+P0343,Tennis Ball 343,Sports,Fitness,7065.41,9080.05
+P0344,Tennis Ball 344,Sports,Fitness,11668.48,16759.06
+P0345,Wardrobe 345,Furniture,Home Furniture,8945.94,12335.95
+P0346,Football 346,Sports,Fitness,7116.0,11059.56
+P0347,Dinner Set 347,Home & Kitchen,Kitchen & Home,12160.23,14123.0
+P0348,Webcam 348,Electronics,Gadgets,12009.4,13832.04
+P0349,Webcam 349,Electronics,Gadgets,7397.04,11687.99
+P0350,Sofa 350,Furniture,Home Furniture,9876.86,12750.43
+P0351,Backpack 351,Fashion,Clothing,3119.61,3871.11
+P0352,Webcam 352,Electronics,Gadgets,8011.52,9612.15
+P0353,Webcam 353,Electronics,Gadgets,1777.93,2607.46
+P0354,Face Wash 354,Beauty,Personal Care,14891.97,18988.97
+P0355,Headphones 355,Electronics,Gadgets,13844.32,17590.9
+P0356,Jeans 356,Fashion,Clothing,14183.24,21481.5
+P0357,Backpack 357,Fashion,Clothing,6458.54,8239.11
+P0358,Air Fryer 358,Home & Kitchen,Kitchen & Home,10050.63,13905.47
+P0359,Fiction Novel 359,Books,Books,11010.09,17541.46
+P0360,Jacket 360,Fashion,Clothing,14113.82,17684.13
+P0361,Webcam 361,Electronics,Gadgets,11687.09,13579.59
+P0362,Air Fryer 362,Home & Kitchen,Kitchen & Home,5530.86,8617.59
+P0363,Office Chair 363,Furniture,Home Furniture,4804.53,7027.25
+P0364,Resistance Band 364,Sports,Fitness,2865.66,4103.42
+P0365,Sneakers 365,Fashion,Clothing,10846.25,15975.82
+P0366,Fiction Novel 366,Books,Books,7268.81,11078.85
+P0367,Electric Kettle 367,Home & Kitchen,Kitchen & Home,14917.85,18608.6
+P0368,Skipping Rope 368,Sports,Fitness,11497.56,16815.32
+P0369,Water Bottle 369,Home & Kitchen,Kitchen & Home,7697.19,11337.54
+P0370,Air Fryer 370,Home & Kitchen,Kitchen & Home,11933.14,18082.34
+P0371,Bedside Table 371,Furniture,Home Furniture,12717.8,16777.98
+P0372,Sneakers 372,Fashion,Clothing,12566.79,15319.49
+P0373,Lip Balm 373,Beauty,Personal Care,8390.44,12155.24
+P0374,Jeans 374,Fashion,Clothing,14867.29,23513.09
+P0375,Backpack 375,Fashion,Clothing,3171.22,3824.38
+P0376,Computer Desk 376,Furniture,Home Furniture,13777.68,18265.52
+P0377,USB Cable 377,Electronics,Gadgets,286.78,376.75
+P0378,Data Science Handbook 378,Books,Books,7269.83,9109.45
+P0379,Dress 379,Fashion,Clothing,9191.37,11059.97
+P0380,Data Science Handbook 380,Books,Books,5951.0,7751.48
+P0381,Makeup Kit 381,Beauty,Personal Care,8447.92,10429.72
+P0382,Formal Shirt 382,Fashion,Clothing,6018.54,8006.4
+P0383,TV Unit 383,Furniture,Home Furniture,8119.7,11515.25
+P0384,Keyboard 384,Electronics,Gadgets,14092.34,20408.24
+P0385,Digital Marketing 385,Books,Books,5537.16,6379.95
+P0386,Sofa 386,Furniture,Home Furniture,9069.64,11398.74
+P0387,Machine Learning Guide 387,Books,Books,7236.45,11057.06
+P0388,Monitor 388,Electronics,Gadgets,14786.36,19649.44
+P0389,Fiction Novel 389,Books,Books,14480.21,19011.82
+P0390,Kitchen Scale 390,Home & Kitchen,Kitchen & Home,12539.51,18079.48
+P0391,T-Shirt 391,Fashion,Clothing,9392.84,11535.68
+P0392,Wireless Mouse 392,Electronics,Gadgets,909.07,1078.24
+P0393,Study Table 393,Furniture,Home Furniture,10074.89,14985.7
+P0394,Smart Watch 394,Electronics,Gadgets,6477.16,8659.15
+P0395,TV Unit 395,Furniture,Home Furniture,7003.16,9824.25
+P0396,Coffee Table 396,Furniture,Home Furniture,14525.55,21587.05
+P0397,Leadership Skills 397,Books,Books,1412.13,2226.08
+P0398,Sofa 398,Furniture,Home Furniture,217.87,316.49
+P0399,Dumbbells 399,Sports,Fitness,2270.99,3392.18
+P0400,Skipping Rope 400,Sports,Fitness,10056.94,13264.71
+P0401,Resistance Band 401,Sports,Fitness,958.26,1395.4
+P0402,Leadership Skills 402,Books,Books,12819.92,17500.88
+P0403,Air Fryer 403,Home & Kitchen,Kitchen & Home,1288.93,1635.22
+P0404,Track Pants 404,Fashion,Clothing,2048.06,2978.54
+P0405,Perfume 405,Beauty,Personal Care,9496.32,12684.34
+P0406,Jacket 406,Fashion,Clothing,10924.66,12908.5
+P0407,Cookware Set 407,Home & Kitchen,Kitchen & Home,14819.82,22191.87
+P0408,Dumbbells 408,Sports,Fitness,2215.95,2687.66
+P0409,Perfume 409,Beauty,Personal Care,11309.66,15684.48
+P0410,Face Serum 410,Beauty,Personal Care,1999.15,2644.84
+P0411,SQL Complete Guide 411,Books,Books,12461.36,15202.78
+P0412,Face Serum 412,Beauty,Personal Care,11515.74,16820.18
+P0413,Makeup Kit 413,Beauty,Personal Care,3733.29,5144.6
+P0414,Backpack 414,Fashion,Clothing,8947.61,11956.0
+P0415,Lip Balm 415,Beauty,Personal Care,4253.94,6493.51
+P0416,Air Fryer 416,Home & Kitchen,Kitchen & Home,11766.98,17060.84
+P0417,Fiction Novel 417,Books,Books,11065.76,16005.13
+P0418,Hoodie 418,Fashion,Clothing,11868.23,16498.59
+P0419,Web Development 419,Books,Books,12114.64,18901.01
+P0420,Dinner Set 420,Home & Kitchen,Kitchen & Home,13343.34,16788.32
+P0421,Skipping Rope 421,Sports,Fitness,9154.2,13100.37
+P0422,Hoodie 422,Fashion,Clothing,14056.98,18145.59
+P0423,Tennis Ball 423,Sports,Fitness,11471.83,14525.2
+P0424,Leadership Skills 424,Books,Books,4320.63,6838.02
+P0425,Dining Chair 425,Furniture,Home Furniture,11547.81,17071.6
+P0426,Body Lotion 426,Beauty,Personal Care,1871.89,2971.43
+P0427,Keyboard 427,Electronics,Gadgets,4774.83,7577.62
+P0428,Mixer Grinder 428,Home & Kitchen,Kitchen & Home,6506.07,7553.15
+P0429,Leadership Skills 429,Books,Books,562.92,789.7
+P0430,Moisturizer 430,Beauty,Personal Care,12645.48,16347.68
+P0431,Backpack 431,Fashion,Clothing,10187.25,15299.02
+P0432,USB Cable 432,Electronics,Gadgets,10539.29,12911.73
+P0433,Body Lotion 433,Beauty,Personal Care,7287.86,10380.74
+P0434,Coffee Maker 434,Home & Kitchen,Kitchen & Home,8741.48,12759.44
+P0435,Power Bank 435,Electronics,Gadgets,14327.04,22624.86
+P0436,Shampoo 436,Beauty,Personal Care,1920.2,2362.54
+P0437,Web Development 437,Books,Books,6049.99,7018.71
+P0438,Air Fryer 438,Home & Kitchen,Kitchen & Home,4995.21,6412.0
+P0439,Cricket Bat 439,Sports,Fitness,2793.09,3613.6
+P0440,Fiction Novel 440,Books,Books,8923.67,14082.66
+P0441,Perfume 441,Beauty,Personal Care,10877.96,17258.72
+P0442,TV Unit 442,Furniture,Home Furniture,3094.37,4715.08
+P0443,Makeup Kit 443,Beauty,Personal Care,4874.54,6365.25
+P0444,Badminton Racket 444,Sports,Fitness,3971.87,5374.53
+P0445,Data Science Handbook 445,Books,Books,1287.66,1758.64
+P0446,Dinner Set 446,Home & Kitchen,Kitchen & Home,14454.99,19589.73
+P0447,Vacuum Cleaner 447,Home & Kitchen,Kitchen & Home,6500.31,10287.3
+P0448,Hair Oil 448,Beauty,Personal Care,12970.11,15523.05
+P0449,Coffee Maker 449,Home & Kitchen,Kitchen & Home,14231.51,18234.1
+P0450,Bookshelf 450,Furniture,Home Furniture,3238.24,3768.61
+P0451,Monitor 451,Electronics,Gadgets,835.83,1110.87
+P0452,Mixer Grinder 452,Home & Kitchen,Kitchen & Home,11198.11,15438.54
+P0453,Kitchen Scale 453,Home & Kitchen,Kitchen & Home,14467.31,20727.68
+P0454,Leadership Skills 454,Books,Books,2261.87,3075.81
+P0455,Bookshelf 455,Furniture,Home Furniture,12030.69,14048.14
+P0456,Body Lotion 456,Beauty,Personal Care,7966.51,9459.84
+P0457,Finance Basics 457,Books,Books,3597.01,4827.34
+P0458,Formal Shirt 458,Fashion,Clothing,8262.57,10057.25
+P0459,Webcam 459,Electronics,Gadgets,2179.27,2568.98
+P0460,Face Wash 460,Beauty,Personal Care,8346.12,10115.31
+P0461,Face Serum 461,Beauty,Personal Care,12478.15,14739.31
+P0462,Machine Learning Guide 462,Books,Books,7452.84,10912.33
+P0463,Sofa 463,Furniture,Home Furniture,9512.61,12336.06
+P0464,Kitchen Scale 464,Home & Kitchen,Kitchen & Home,11024.26,14301.3
+P0465,Jeans 465,Fashion,Clothing,10329.58,11969.59
+P0466,Jeans 466,Fashion,Clothing,678.94,815.86
+P0467,Track Pants 467,Fashion,Clothing,11575.04,17009.55
+P0468,Dinner Set 468,Home & Kitchen,Kitchen & Home,13181.28,16392.19
+P0469,Wireless Mouse 469,Electronics,Gadgets,3305.1,3816.83
+P0470,Shampoo 470,Beauty,Personal Care,2109.23,2731.47
+P0471,Vacuum Cleaner 471,Home & Kitchen,Kitchen & Home,3617.52,5308.44
+P0472,Water Bottle 472,Home & Kitchen,Kitchen & Home,10305.48,15919.08
+P0473,Business Analytics 473,Books,Books,3122.87,4233.37
+P0474,Sofa 474,Furniture,Home Furniture,8699.87,13843.88
+P0475,TV Unit 475,Furniture,Home Furniture,2294.88,3627.09
+P0476,Laptop Stand 476,Electronics,Gadgets,1855.49,2480.78
+P0477,Perfume 477,Beauty,Personal Care,2034.72,3109.27
+P0478,Dining Chair 478,Furniture,Home Furniture,9260.8,14134.45
+P0479,Face Serum 479,Beauty,Personal Care,336.9,418.72
+P0480,Power Bank 480,Electronics,Gadgets,5732.48,8939.5
+P0481,Wireless Mouse 481,Electronics,Gadgets,5965.11,8029.95
+P0482,Backpack 482,Fashion,Clothing,7071.75,8229.98
+P0483,Skipping Rope 483,Sports,Fitness,4494.22,6653.56
+P0484,Cricket Bat 484,Sports,Fitness,1677.82,2479.8
+P0485,Webcam 485,Electronics,Gadgets,6226.81,7560.69
+P0486,Shampoo 486,Beauty,Personal Care,7832.72,11074.34
+P0487,Jeans 487,Fashion,Clothing,1961.43,2261.0
+P0488,Office Chair 488,Furniture,Home Furniture,9882.11,15652.73
+P0489,Makeup Kit 489,Beauty,Personal Care,8682.56,12739.8
+P0490,Bluetooth Speaker 490,Electronics,Gadgets,2008.1,3065.18
+P0491,Digital Marketing 491,Books,Books,5712.67,8364.26
+P0492,Machine Learning Guide 492,Books,Books,2170.75,3271.17
+P0493,Cricket Bat 493,Sports,Fitness,5000.78,7635.46
+P0494,Storage Box 494,Home & Kitchen,Kitchen & Home,9789.24,14059.13
+P0495,Coffee Maker 495,Home & Kitchen,Kitchen & Home,13834.26,20517.27
+P0496,Business Analytics 496,Books,Books,7554.77,10063.45
+P0497,Sneakers 497,Fashion,Clothing,9018.05,10560.36
+P0498,Keyboard 498,Electronics,Gadgets,1914.01,2485.01
+P0499,Coffee Maker 499,Home & Kitchen,Kitchen & Home,4926.25,7185.53
+P0500,Bookshelf 500,Furniture,Home Furniture,7052.5,10345.0

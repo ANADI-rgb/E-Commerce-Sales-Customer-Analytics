@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI temporary files
+*.tmp
+*.bak
+~$*
+
+# Secrets and credentials
+.env
+*.env
+config.ini
+secrets.json
+
+# MySQL exports and logs
+*.sql.gz
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
